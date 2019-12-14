@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SqliteExemple</string>
+
+    <string name="nom">De : </string>
+    <string name="A"> A : </string>
+    <string name="all">Date aller :  </string>
+    <string name="Ret">Date Retour :  </string>
+
+    <string name="ajouter"> Rechercher </string>
+    <string name="affichertout"> Reserver </string>
+
+
+</resources>
